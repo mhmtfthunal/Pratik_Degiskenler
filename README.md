@@ -1,4 +1,4 @@
-# Kullanıcı Bilgi ve Puan Hesaplama Uygulaması
+# Pratik_Degiskenler Kullanıcı Bilgisi ve Puan Hesaplama Uygulaması
 
 Bu C# konsol uygulaması, kullanıcıdan temel kişisel bilgileri ve iki ürünün fiyatını alır. Alınan bilgiler doğrultusunda toplam harcama hesaplanır ve harcamanın %10’u kadar puan kazandırılır. Tüm bilgiler kullanıcıya ekranda gösterilir.
 
