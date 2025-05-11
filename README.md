@@ -1,20 +1,37 @@
-Bu C# konsol uygulaması, kullanıcıdan temel kişisel bilgileri ve iki ürün fiyatını alır. Kullanıcının bilgileri ekrana yazdırılır ve yaptığı alışverişin %10'u kadar puan hesaplanır.
+# Kullanıcı Bilgi ve Puan Hesaplama Uygulaması
+
+Bu C# konsol uygulaması, kullanıcıdan temel kişisel bilgileri ve iki ürünün fiyatını alır. Alınan bilgiler doğrultusunda toplam harcama hesaplanır ve harcamanın %10’u kadar puan kazandırılır. Tüm bilgiler kullanıcıya ekranda gösterilir.
+
+---
 
 ## 🧩 Özellikler
 
-- Kullanıcıdan T.C. Kimlik Numarası, Ad, Soyad, Telefon ve Yaş bilgilerini alır.
-- İki farklı ürün fiyatı istenir.
+- Kullanıcıdan aşağıdaki bilgiler alınır:
+  - T.C. Kimlik Numarası
+  - Ad
+  - Soyad
+  - Telefon Numarası
+  - Yaş
+- İki farklı ürünün fiyatı kullanıcıdan alınır.
 - Ürün fiyatları toplanarak toplam harcama hesaplanır.
-- Harcamanın %10'u kadar "puan miktarı" belirlenir.
-- Kullanıcıya kayıt ve puan bilgisi ekrana yazdırılır.
+- Toplam harcamanın %10’u kadar puan değeri hesaplanır.
+- Tüm bilgiler ve puan miktarı ekrana yazdırılır.
 
- ## 🛠 Kullanılan Teknolojiler
+---
+
+## 🛠 Kullanılan Teknolojiler
 
 - C# (.NET Console App)
 - Visual Studio
 
+---
+
 ## 🚀 Nasıl Çalıştırılır?
 
-1. Proje dosyasını bir C# derleyicisinde aç (örneğin Visual Studio).
-2. Konsolda sırasıyla bilgileri girin.
-3. Program, bilgileri işleyip sonuçları ekranda gösterecektir.
+1. Visual Studio veya Visual Studio Code’da yeni bir Console App (.NET) projesi oluşturun.
+2. `Program.cs` dosyasına proje kodlarını yapıştırın.
+3. Uygulamayı başlatın (`F5` veya `Run`).
+4. Konsoldaki yönlendirmeleri takip ederek gerekli bilgileri girin.
+5. Sonuçlar ekranda görüntülenecektir.
+
+---
